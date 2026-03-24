@@ -1,0 +1,10 @@
+baseURL = "https://sisy.casa/"
+languageCode = "en-us"
+title = "SISY Casa - Where Lifestyle Meets Expertise"
+
+[params]
+  description = "SISY Casa connects interior designers, food and hospitality experts, and lifestyle coaches with the stages, brands, and audiences that celebrate the art of living well."
+  tagline = "Where lifestyle meets expertise."
+
+[markup.goldmark.renderer]
+  unsafe = true
